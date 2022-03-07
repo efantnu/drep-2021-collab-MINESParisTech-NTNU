@@ -1,5 +1,5 @@
 # Data sets
-This repository contains the data sets of the paper "Allocation of spinning reserves for autonomous grids subject to frequency stability constraints and short-term renewable power variations" authored by Louis Polleux, Erick F. Alves, Magnus Korp{\aa}s, Elisabetta Tedeschi, and Gilles Guerassimoff. With these files, it is possible to reproduce most simulations and results obtained in the paper.
+This repository contains the data sets of the paper "Allocation of spinning reserves for autonomous grids subject to frequency stability constraints and short-term renewable power variations" authored by Louis Polleux, Erick F. Alves, Magnus Korpås, Elisabetta Tedeschi, and Gilles Guerassimoff. With these files, it is possible to reproduce most simulations and results obtained in the paper.
 
 [![DOI](https://zenodo.org/badge/275805008.svg)](https://zenodo.org/badge/latestdoi/275805008)
 
